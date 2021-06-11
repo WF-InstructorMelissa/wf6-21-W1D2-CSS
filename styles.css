@@ -1,0 +1,40 @@
+body {
+    background-color: #7fffd4;
+    color: black;
+    border: 3px solid red;
+}
+header {
+    background-color: black;
+    color: white;
+    border: 3px solid blue;
+}
+h1 {
+    text-align: center;
+    border: 3px solid purple;
+    
+}
+a {
+    color: white;
+    padding: 2em;
+    text-decoration: none;
+    border: 3px solid red;
+}
+/* This is a class vs a tag */
+.odd {
+    padding: 5em;
+}
+.main {
+    width: 55%;
+    background-color: olivedrab;
+    border: 3px solid blue;
+}
+.bee {
+    background-color: aliceblue; 
+    width: 25%;
+ }
+img {
+    border: 3px solid purple;
+    margin: 3em;
+    padding: 3em;
+    background-color: thistle;
+}
